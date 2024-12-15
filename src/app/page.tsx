@@ -34,11 +34,11 @@ export default function Home() {
   useEffect(() => {
     const getInitialData = async () => {
       setLoading(true);
-      try {
-        const apikey = process.env.NEXT_PUBLIC_API_KEY;
-        console.log("Api Key:", apikey);
+      // try {
+      //   const apikey = process.env.NEXT_PUBLIC_API_KEY;
+      //   console.log("Api Key:", apikey);
         const response = await fetch(
-          `https://geo.ipify.org/api/v2/country,city?apiKey=${apikey}`
+          `https://geo.ipify.org/api/v2/country,city?apiKey=at_aqInlQYid2YfCg6dSKfCtwg2TlUQ0`
         );
         const data = await response.json();
         setAddress(data);
@@ -56,10 +56,10 @@ export default function Home() {
     event.preventDefault();
     setLoading(true);
     try {
-      const apikey = process.env.NEXT_PUBLIC_API_KEY;
-      console.log("Api Key:", apikey);
+      // const apikey = process.env.NEXT_PUBLIC_API_KEY;
+      // console.log("Api Key:", apikey);
       const response = await fetch(
-        `https://geo.ipify.org/api/v2/country,city?apiKey=${apikey}&ipAddress=${ipAddress}`
+        `https://geo.ipify.org/api/v2/country,city?apiKey=at_aqInlQYid2YfCg6dSKfCtwg2TlUQ0&ipAddress=${ipAddress}`
       );
       const data = await response.json();
       setAddress(data);

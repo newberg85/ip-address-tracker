@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [](https://www.frontendmentor.io/solutions/ip-address-tracker-challenge-using-nextjs-typescript-and-tailwindcss-LympNXqcgc)
+- Live Site URL: [](https://ip-address-tracker-devberg.vercel.app/)
 
 ## My process
 
@@ -100,8 +100,8 @@ In future projects, I plan to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Add your name here](http://devberg.com.br/)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/newberg85)
 - Twitter - [@yourusername](https://www.twitter.com/yourusername)
 
 ## Acknowledgments

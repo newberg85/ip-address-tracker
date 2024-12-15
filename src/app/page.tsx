@@ -35,8 +35,9 @@ export default function Home() {
     const getInitialData = async () => {
       setLoading(true);
       try {
+        const apikey = process.env.NEXT_PUBLIC_API_KEY;
         const response = await fetch(
-          `https://geo.ipify.org/api/v2/country,city?apiKey=${process.env.NEXT_PUBLIC_API_KEY}`
+          `https://geo.ipify.org/api/v2/country,city?apiKey=${apikey}`
         );
         const data = await response.json();
         setAddress(data);

@@ -97,7 +97,7 @@ In future projects, I plan to:
 
 - Website - [DevBerg](http://devberg.com.br/)
 - Frontend Mentor - [@newberg85](https://www.frontendmentor.io/profile/newberg85)
-- Instagran - [@new.berg85]((https://www.instagram.com/new.berg85/))
+- Instagram - [@new.berg85](https://www.instagram.com/new.berg85/)
 
 ## Acknowledgments
 

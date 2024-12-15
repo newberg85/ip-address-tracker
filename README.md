@@ -6,7 +6,6 @@ This is a solution to the [IP address tracker challenge on Frontend Mentor](http
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -27,14 +26,10 @@ Users should be able to:
 - See their own IP address on the map on the initial page load
 - Search for any IP addresses or domains and see the key information and location
 
-### Screenshot
-
-![](./screenshot.jpg)
-
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/ip-address-tracker-challenge](https://www.frontendmentor.io/solutions/ip-address-tracker-challenge-using-nextjs-typescript-and-tailwindcss-LympNXqcgc)
-- Live Site URL: [](https://ip-address-tracker-devberg.vercel.app/)
+- Solution URL: [frontendmentor ip address tracker challenge](https://www.frontendmentor.io/solutions/ip-address-tracker-challenge-using-nextjs-typescript-and-tailwindcss-LympNXqcgc)
+- Live Site URL: [ip address tracker](https://ip-address-tracker-devberg.vercel.app/)
 
 ## My process
 
@@ -100,9 +95,9 @@ In future projects, I plan to:
 
 ## Author
 
-- Website - [Add your name here](http://devberg.com.br/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/newberg85)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [DevBerg](http://devberg.com.br/)
+- Frontend Mentor - [@newberg85](https://www.frontendmentor.io/profile/newberg85)
+- Instagran - [@new.berg85]((https://www.instagram.com/new.berg85/))
 
 ## Acknowledgments
 

@@ -1,8 +1,7 @@
 {
-    "framework": "nextjs",
     "build": {
       "env": {
-        "NODE_OPTIONS": "--force"
+        "NODE_VERSION": "18" 
       }
     }
   }

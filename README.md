@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://www.frontendmentor.io/solutions/ip-address-tracker-challenge-using-nextjs-typescript-and-tailwindcss-LympNXqcgc)
+- Solution URL: [https://www.frontendmentor.io/solutions/ip-address-tracker-challenge](https://www.frontendmentor.io/solutions/ip-address-tracker-challenge-using-nextjs-typescript-and-tailwindcss-LympNXqcgc)
 - Live Site URL: [](https://ip-address-tracker-devberg.vercel.app/)
 
 ## My process

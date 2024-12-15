@@ -36,7 +36,7 @@ export default function Home() {
       setLoading(true);
       try {
         const apikey = process.env.NEXT_PUBLIC_API_KEY;
-        console.log(apikey)
+        console.log("API Key:", apikey);
         const response = await fetch(
           `https://geo.ipify.org/api/v2/country,city?apiKey=${apikey}`
         );
@@ -57,7 +57,7 @@ export default function Home() {
     setLoading(true);
     try {
       const apikey = process.env.NEXT_PUBLIC_API_KEY;
-      console.log(apikey)
+      console.log("API Key:", apikey);
       const response = await fetch(
         `https://geo.ipify.org/api/v2/country,city?apiKey=${apikey}&ipAddress=${ipAddress}`
       );
